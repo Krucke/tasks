@@ -1,0 +1,9 @@
+@media(max-width: 995px){
+    .sel{
+        display: flex;
+        flex-direction: column;
+    }
+    .see{
+        margin-top: 10px;
+    }
+}
